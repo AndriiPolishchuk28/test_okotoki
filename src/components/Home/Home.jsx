@@ -1,5 +1,7 @@
+import InputSearch from '../InputSearch/InputSearch';
+
 const Home = () => {
-  return <div>Home</div>;
+  return <InputSearch />;
 };
 
 export default Home;

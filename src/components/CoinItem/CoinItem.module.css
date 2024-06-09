@@ -1,0 +1,20 @@
+.coin {
+  color: #bcbcbc;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+}
+
+.coin:hover {
+  background-color: #404141;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.favorites_btn {
+  color: #bcbcbc;
+  transform: scale(1.2);
+  display: flex;
+  align-items: center;
+}
